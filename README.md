@@ -23,7 +23,7 @@ Ce projet Python, "Multimedia Stream Processor", propose un outil pratique pour 
 
 Ce projet est sous licence [MIT License]
 
-## Soutenez ce projet solitaire avec Monero !
+## Soutenez ce projet avec Monero !
 
 🌟 Si vous aimez ce projet et que vous souhaitez lui apporter un peu de compagnie (et peut-être même lui offrir une tasse de café virtuelle), vous pouvez maintenant faire un don en utilisant Monero ! Votre générosité aidera à maintenir ce projet en vie et à lui donner le coup de pouce dont il a besoin pour continuer à évoluer et à grandir. Merci d'être là pour lui ! 🚀
 
