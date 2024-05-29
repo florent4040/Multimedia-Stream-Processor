@@ -1,15 +1,24 @@
-Multimedia Stream Processor est un outil interactif en ligne de commande pour simplifier le traitement des fichiers multimédias.
+Ce projet Python, "Multimedia Stream Processor", propose un outil pratique pour traiter les fichiers multimédias en sélectionnant et en préservant les pistes audio et les sous-titres souhaités. Il offre une solution simple pour personnaliser le traitement des vidéos en fonction des préférences linguistiques de l'utilisateur, tout en permettant de traiter plusieurs fichiers simultanément pour une efficacité accrue.
 
 ## Fonctionnalités
 
-- Extraction des informations de flux à l'aide de FFprobe.
-- Sélection personnalisée des flux audio japonais et des sous-titres français complets.
-- Traitement automatisé des fichiers vidéo avec FFmpeg.
-- Interface utilisateur intuitive pour une utilisation facile.
+- **Traitement Sélectif :** Choisissez les pistes audio et les sous-titres à conserver dans les vidéos traitées.
+- **Personnalisation Linguistique :** Adaptez le traitement des vidéos selon les préférences linguistiques.
+- **Traitement en Lot :** Traitez plusieurs vidéos simultanément pour une efficacité accrue.
+- **Optimisation des Performances :** Utilisez FFprobe et FFmpeg pour un traitement vidéo efficace.
 
 ## Utilisation
 
-1. Clonez ce dépôt : `git clone https://github.com/votre-utilisateur/Multimedia-Stream-Processor.git`
-2. Installez les dépendances : `pip install -r requirements.txt`
+1. Clonez ce dépôt : `git clone https://github.com/votre-nom/multimedia-stream-processor.git`
+2. Accédez au répertoire : `cd multimedia-stream-processor`
 3. Lancez le script : `python main.py`
-4. Suivez les instructions pour sélectionner les flux audio et les sous-titres.
+4. Suivez les instructions à l'écran pour sélectionner les pistes audio et les sous-titres à traiter.
+
+## Dépendances
+
+- Python 3.6 ou supérieur
+- FFprobe et FFmpeg
+
+## Licence
+
+Ce projet est sous licence [MIT License]
